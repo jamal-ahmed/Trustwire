@@ -2,7 +2,7 @@
 
 # YourSwiftPackage
 
-[![Swift CI](https://github.com/USERNAME/REPOSITORY/actions/workflows/swift.yml/badge.svg)](https://github.com/USERNAME/REPOSITORY/actions/workflows/swift.yml)
+[![Swift CI](https://github.com/jamal-ahmed/Trustwire/actions/workflows/swift.yml/badge.svg)](https://github.com/jamal-ahmed/Trustwire/actions/workflows/swift.yml)
 ![Swift Version](https://img.shields.io/badge/Swift-5.9%2B-orange.svg)
 ![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20iOS%20%7C%20tvOS%20%7C%20watchOS-blue)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
